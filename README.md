@@ -1,5 +1,5 @@
 # HW2
-The project consists of four main classes:
+This project implements a simple question and answer system where users can ask questions, provide answers, and search for answers. The system includes classes for managing questions, answers, and users, and provides functionalities such as adding, deleting, and searching for questions and answers.
 
 1. **Question**: Represents a question, including its text, category, and associated user.
 2. **Questions**: Manages a collection of `Question` objects, allowing you to add, delete, and search for questions.
